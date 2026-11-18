@@ -1,0 +1,14 @@
+PUBLICERING PÅ LINKEDIN
+
+Dokumentinlägg (rekommenderas)
+1. Skapa ett nytt inlägg från Comply Groups företagssida och välj ”Lägg till dokument”.
+2. Ladda upp ../comply-linkedin-dokument.pdf (6 sidor, 1080 × 1350 px, stående 4:5).
+3. Ge dokumentet titeln ”Comply Group – teknisk kontroll”. Titeln syns ovanför bläddringsvyn.
+4. Klistra in texten från linkedin-inlagg.txt.
+
+Bildinlägg (alternativ)
+Ladda upp linkedin-bild-1.jpg till linkedin-bild-6.jpg som flera bilder i samma inlägg. Dokumentinlägget ger dock bäst bläddringsupplevelse och fler visningar.
+
+Att tänka på
+- Länkar i PDF:en går inte att klicka på i LinkedIns bläddringsvy. Därför står e-postadressen även i inläggstexten.
+- Fotona är hämtade från complygroup.se och omgjorda till svartvitt.

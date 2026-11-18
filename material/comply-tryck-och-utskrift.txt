@@ -1,0 +1,24 @@
+COMPLY GROUP – BROSCHYR (NY VERSION)
+
+UTSKRIFT PÅ EGEN SKRIVARE
+
+Skriv ut comply-broschyr-digital.pdf: fyra vanliga A4-sidor utan utfall eller skärmärken. Välj A4 och skala 100 % (”Faktisk storlek”). Kontorsskrivare lämnar en smal vit kant eftersom de inte kan skriva ut ända ut till papperskanten; det är normalt.
+
+TRYCKORIGINAL TILL TRYCKERI
+
+comply-broschyr-tryckoriginal.pdf ska inte skrivas ut på egen skrivare – den vita kanten med skärmärken skärs bort hos tryckeriet. Filen har fyra A4-sidor (210 x 297 mm) i läsordning:
+- 3 mm utfall på alla sidor; bilder och färgfält går ut i utfallet.
+- Skärmärken utanför utfallet och en informationsrad i marginalen.
+- TrimBox (A4) och BleedBox (A4 + 3 mm) är satta i PDF-filen.
+- Typsnitten IBM Plex Sans, IBM Plex Sans Condensed och IBM Plex Mono är inbäddade. Logotypen är vektorgrafik.
+- Alla foton är omgjorda till svartvitt så att de håller ihop som en serie. De är hämtade från complygroup.se. Ungefärlig upplösning i tryck: omslaget ca 125 dpi, den höga bilden på sidan 2 ca 115 dpi, den stora bilden på sidan 4 ca 235 dpi.
+
+Innan upplaga beställs, stäm av med tryckeriet:
+- Bildupplösning: flera foton ligger under 300 dpi, främst omslaget. Originalfotona från fotografen behövs för ett skarpt tryck.
+- Telefonnummer: kontaktsidan har platshållaren [Telefonnummer], som behöver bytas ut före tryck.
+- Färgprofil: filen är i RGB. Be tryckeriet konvertera till sin CMYK-profil (t.ex. Coated FOGRA39) och ta fram ett provtryck av den mörka sidan 3 och den gula accentfärgen #E3A21A.
+- Papper, upplaga och eventuell lack.
+
+DIGITAL BROSCHYR
+
+comply-broschyr-digital.pdf (A4 utan utfall) har klickbara länkar till webbplats, e-post och LinkedIn.
